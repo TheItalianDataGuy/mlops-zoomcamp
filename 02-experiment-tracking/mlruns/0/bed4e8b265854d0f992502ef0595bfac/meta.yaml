@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/bed4e8b265854d0f992502ef0595bfac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bed4e8b265854d0f992502ef0595bfac
+run_name: fortunate-cat-934
+run_uuid: bed4e8b265854d0f992502ef0595bfac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747680042402
+status: 1
+tags: []
+user_id: codespace

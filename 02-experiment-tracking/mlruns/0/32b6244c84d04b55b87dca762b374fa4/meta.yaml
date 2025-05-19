@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/32b6244c84d04b55b87dca762b374fa4/artifacts
+end_time: 1747679392385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32b6244c84d04b55b87dca762b374fa4
+run_name: sneaky-stork-227
+run_uuid: 32b6244c84d04b55b87dca762b374fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747679316595
+status: 3
+tags: []
+user_id: codespace
