@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926486293316567431/33e89a0e71c5417f8f8caf6c3353fd2b/artifacts
+end_time: 1747687624947
+entry_point_name: ''
+experiment_id: '926486293316567431'
+lifecycle_stage: active
+run_id: 33e89a0e71c5417f8f8caf6c3353fd2b
+run_name: redolent-moth-672
+run_uuid: 33e89a0e71c5417f8f8caf6c3353fd2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687624652
+status: 3
+tags: []
+user_id: andre

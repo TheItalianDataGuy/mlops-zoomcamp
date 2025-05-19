@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926486293316567431/c39ecff5a66d4f18b92c7dc5c65301b3/artifacts
+end_time: 1747687628071
+entry_point_name: ''
+experiment_id: '926486293316567431'
+lifecycle_stage: active
+run_id: c39ecff5a66d4f18b92c7dc5c65301b3
+run_name: efficient-perch-50
+run_uuid: c39ecff5a66d4f18b92c7dc5c65301b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687626919
+status: 3
+tags: []
+user_id: andre

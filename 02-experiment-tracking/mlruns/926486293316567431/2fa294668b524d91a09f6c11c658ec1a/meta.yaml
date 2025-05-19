@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926486293316567431/2fa294668b524d91a09f6c11c658ec1a/artifacts
+end_time: 1747687624426
+entry_point_name: ''
+experiment_id: '926486293316567431'
+lifecycle_stage: active
+run_id: 2fa294668b524d91a09f6c11c658ec1a
+run_name: peaceful-stoat-805
+run_uuid: 2fa294668b524d91a09f6c11c658ec1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687621506
+status: 3
+tags: []
+user_id: andre

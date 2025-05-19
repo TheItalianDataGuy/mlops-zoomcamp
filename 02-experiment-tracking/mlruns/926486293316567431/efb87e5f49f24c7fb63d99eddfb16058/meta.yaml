@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926486293316567431/efb87e5f49f24c7fb63d99eddfb16058/artifacts
+end_time: 1747687643372
+entry_point_name: ''
+experiment_id: '926486293316567431'
+lifecycle_stage: active
+run_id: efb87e5f49f24c7fb63d99eddfb16058
+run_name: classy-wolf-658
+run_uuid: efb87e5f49f24c7fb63d99eddfb16058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687642111
+status: 3
+tags: []
+user_id: andre

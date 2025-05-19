@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926486293316567431/3a38951ca736401b9151442dff8faaa9/artifacts
+end_time: 1747687642105
+entry_point_name: ''
+experiment_id: '926486293316567431'
+lifecycle_stage: active
+run_id: 3a38951ca736401b9151442dff8faaa9
+run_name: polite-whale-321
+run_uuid: 3a38951ca736401b9151442dff8faaa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687641626
+status: 3
+tags: []
+user_id: andre

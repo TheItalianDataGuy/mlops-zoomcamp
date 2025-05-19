@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926486293316567431/3d3f11f38c03450baea0dd00124a3dab/artifacts
+end_time: 1747687626913
+entry_point_name: ''
+experiment_id: '926486293316567431'
+lifecycle_stage: active
+run_id: 3d3f11f38c03450baea0dd00124a3dab
+run_name: adaptable-quail-487
+run_uuid: 3d3f11f38c03450baea0dd00124a3dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687624953
+status: 3
+tags: []
+user_id: andre
