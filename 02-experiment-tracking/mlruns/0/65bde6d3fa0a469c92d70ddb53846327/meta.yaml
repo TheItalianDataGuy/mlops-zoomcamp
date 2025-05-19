@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/65bde6d3fa0a469c92d70ddb53846327/artifacts
+end_time: 1747684427630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65bde6d3fa0a469c92d70ddb53846327
+run_name: resilient-bat-497
+run_uuid: 65bde6d3fa0a469c92d70ddb53846327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747684421348
+status: 3
+tags: []
+user_id: andre

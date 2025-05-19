@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/512aa322ca754402af29e5e3faed4195/artifacts
+end_time: 1747683678353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 512aa322ca754402af29e5e3faed4195
+run_name: persistent-loon-790
+run_uuid: 512aa322ca754402af29e5e3faed4195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747683672270
+status: 3
+tags: []
+user_id: andre
