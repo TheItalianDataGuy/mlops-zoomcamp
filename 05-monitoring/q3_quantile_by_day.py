@@ -29,3 +29,5 @@ print(daily_medians)
 # ✅ Print the maximum
 max_median = daily_medians.max()
 print(f"\n🚨 Max daily median fare_amount in March 2024: {max_median:.2f}")
+
+# 14.20
