@@ -1,8 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Progress-Week_5-blueviolet)
-![MLflow Screenshot](images/mlflow-ui.png)
-![Grafana Screenshot](images/grafana-dashboard.png)
+![MLOps Zoomcamp](https://img.shields.io/badge/MLOps_Zoomcamp-DataTalksClub-orange)
 
 # 🛠️ MLOps Zoomcamp – Personal Implementation
 
