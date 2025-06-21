@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Progress-Week_5-blueviolet)
+![MLflow Screenshot](images/mlflow-ui.png)
+![Grafana Screenshot](images/grafana-dashboard.png)
+
 # 🛠️ MLOps Zoomcamp – Personal Implementation
 
 This repository contains my personal implementation of the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) by DataTalksClub. It includes weekly exercises, code labs, and project configurations that cover the complete machine learning operations (MLOps) lifecycle from experimentation to production monitoring.
