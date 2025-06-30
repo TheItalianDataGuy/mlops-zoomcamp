@@ -194,3 +194,6 @@ output/
 # OS files
 .DS_Store
 
+# LocalStack
+localstack/cache
+
